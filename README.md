@@ -1,5 +1,5 @@
 # Voice Controlled Robot for Object Finding
-<img src="https://github.com/ArjHub/VC-Car-For-Object-Finding/blob/main/Pic.jpg" alt="Picture" width="100">
+<img src="https://github.com/ArjHub/VC-Car-For-Object-Finding/blob/main/Pic.jpg" alt="Picture" width="250">
 
 ## Introduction
 
