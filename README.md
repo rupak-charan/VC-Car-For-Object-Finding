@@ -1,6 +1,6 @@
 # Voice Controlled Robot for Object Finding
 <img src="https://github.com/ArjHub/VC-Car-For-Object-Finding/blob/main/Pic.jpg" alt="Picture" width="350">
-
+ 
 ## Introduction
 
 This project focuses on the development of a Voice Controlled Robot for Object Finding, utilizing two Arduinos and an ESP32 CAM to create a functional and innovative solution. The project incorporates the YOLOv7 model for object detection.
